@@ -19,4 +19,4 @@ Enhanced skills in frontend development for creating an intuitive user experienc
 **Future Enhancements:**
 Considering potential additions like extended weather forecasts, historical data, or user preferences.
 
-
+![image alt]()
