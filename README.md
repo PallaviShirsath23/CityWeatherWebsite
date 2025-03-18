@@ -19,4 +19,4 @@ Enhanced skills in frontend development for creating an intuitive user experienc
 **Future Enhancements:**
 Considering potential additions like extended weather forecasts, historical data, or user preferences.
 
-![image alt]()
+![image alt](https://github.com/PallaviShirsath23/CityWeatherWebsite/blob/e53530a1f4a9f3ab7cbdb8d411ca1f43593b41a8/Screenshot%202025-01-08%20235909.png)
