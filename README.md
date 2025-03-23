@@ -4,7 +4,7 @@
 Built a web application enabling users to check weather conditions by searching for a city name.
 Utilized a Weather API to fetch real-time weather data for accurate and up-to-date information.
 
-**Tech Stack:**
+**Tech Stack:*
 Developed using HTML, CSS, and JavaScript for the frontend.
 Integrated a Weather API, showcasing proficiency in API usage.
 
