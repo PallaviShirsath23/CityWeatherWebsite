@@ -1,4 +1,3 @@
-
 # MAUSAM - City Weather Search Website:
 
 Built a web application enabling users to check weather conditions by searching for a city name.
